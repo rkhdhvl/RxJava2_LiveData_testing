@@ -1,1 +1,1 @@
-# Unit Testing Rxjava in conjunction with ViewModel 
+# Unit Testing RxJava2 in conjunction with ViewModel 
